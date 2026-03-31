@@ -1,4 +1,4 @@
-# agent-review
+# claude-architect-skill-review
 
 A Claude Code skill that reviews agent code for common architectural mistakes and anti-patterns. Based on the five domains of the [Claude Certified Architect - Foundations](https://medium.com/data-science-collective/the-complete-claude-architect-study-guide-with-code-and-tutor-prompts-01f524e95c92) study guide.
 
